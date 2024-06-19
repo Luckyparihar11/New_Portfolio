@@ -1,31 +1,31 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/ykte-feature-graphic.png",
-    title: "YouKnowTheEnding",
+    img: "/askyourpdf-review.png",
+    title: "Ask-your-PDFs",
     description:
-      "A cross-platform mobile game (in closed testing) where players try to find the missing pieces of a story.",
-    tech_stack: ["React Native", "Google Cloud", "NextJs", "TailwindCSS"],
+      "Software application designed to ask natural language questions directly about the content within a PDF document.",
+    tech_stack: ["Python", "Python-GUI", "StreamLit", "HuggingFace"],
     github_url: "",
-    demo_url: "https://youknowtheending.net/",
+    demo_url: "https://github.com/Luckyparihar11/Ask-your-Pdfs",
   },
   {
-    img: "/renr-responsive.png",
-    title: "RENR Safety App",
+    img: "/HRI.png",
+    title: "HRI using RPS Game Theory",
     description:
-      "A safety application for the Renewable Resources Dept. of BCIT",
-    tech_stack: ["React", "Firebase"],
+      "Algorithm embedded in robot to predict next outcome based on previous outputs.",
+    tech_stack: ["Python", "Markov Chain Model"],
     github_url: "",
-    demo_url: "https://renr-bcit.web.app/",
+    demo_url: "https://drive.google.com/file/d/1kz9QlrdIzQhqYBZXce-Ir2eHXTqS7T3q/view",
   },
   {
     img: "/mymind-responsive.png",
-    title: "MyMind",
+    title: "Farm-at-ease",
     description:
-      "An app where users can purchase online therapy sessions and chat with their therapists.",
-    tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
-    github_url: "https://github.com/salesp07/MyMind---Copy",
-    demo_url: "https://mymindweb.vercel.app/",
+      "E-platform for farmers, leading to a 50% options availability in machinery , seeds , fertilizers and others.",
+    tech_stack: ["React", "Tailwind-CSS", "NodeJs", "MongoDB", "Email-js"],
+    github_url: "",
+    demo_url: "https://agri-at-ease.netlify.app/",
   },
   {
     img: "/pokedex-responsive.png",
@@ -104,7 +104,7 @@ export const stackList = [
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg",
-    name: "C",
+    name: "C++",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
